@@ -1,5 +1,6 @@
 // Code by Aleix Ferré
 // Github: https://github.com/CatalaHD
+// P5 Sketch: https://editor.p5js.org/thecatalahd/sketches/1cSFvJQgN
 
 let mida = 10;
 
@@ -99,7 +100,7 @@ function potPosarParaula(paraula, columna, vertical, offset, reverse) {
   // Retorna bool: si la paraula no interfereix amb cap altra existent
   //!! TENINT EN COMPTE QUE LES LLETRES IGUALS SON VALIDES I ES PODEN XOCAR ENTRE SI
   // 
-  // i: int de l'index de la paraula
+  // paraula: string de la paraula
   // columna: int [0-mida] d'una posicio valida aleatoria dins del tauler
   // vertical: bool que indica si la paraula ha d'anar en horitzontal(false) o vertical(true)
   // offset: int que indica la quantitat de caselles desde el 0 des d'on posar la paraula
