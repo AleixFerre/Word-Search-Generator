@@ -4,7 +4,8 @@ Word-Search-Generator is a very simple and easy algorithm that makes random Word
 
 ## Editing
 
-You can easy see and edit the source code [here](https://editor.p5js.org/thecatalahd/sketches/1cSFvJQgN)
+You can easy see and edit the source code [here](https://editor.p5js.org/thecatalahd/sketches/1cSFvJQgN).
+
 Note that the code comments and the variable names are in [Catalan](https://en.wikipedia.org/wiki/Catalan_language).
 
 ## Usage
