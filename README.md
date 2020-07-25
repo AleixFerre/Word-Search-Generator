@@ -1,6 +1,7 @@
 # Word-Search-Generator
 
 Word-Search-Generator is a very simple and easy algorithm that makes random Word Search boards.
+![](https://raw.githubusercontent.com/CatalaHD/Word-Search-Generator/master/assets/example.jpg)
 
 ## Editing
 
