@@ -39,7 +39,7 @@ function preload() {
 
 // Funció de start
 function setup() {
-  let canvas = createCanvas(400, 400);
+  let canvas = createCanvas(800, 800);
 
   checkbox = createCheckbox('Enable reverse', enableReverse);
   checkbox.changed(changeReverse);
@@ -80,7 +80,7 @@ function draw() {
 
 
       // Hi dibuixem la lletra on toca
-      textSize(300 / mida);
+      textSize(600 / mida);
       textAlign(CENTER, CENTER);
       let col = colors[i * mida + j];
       if (!col) {
