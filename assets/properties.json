@@ -1,0 +1,6 @@
+{
+    "words": ["CREATURE", "VACATION", "HABITUAL", "GRACEFUL", "DINNER", "LOWLY", "HAUNT", "BOAST", "FAIR", "HAT"],
+    "board": ["I", "G", "B", "Y", "D", "Q", "U", "T", "I", "I", "C", "C", "Q", "T", "U", "O", "Q", "V", "B", "F", "G", "R", "A", "C", "E", "F", "U", "L", "O", "A", "C", "E", "D", "I", "N", "N", "E", "R", "A", "I", "V", "A", "C", "A", "T", "I", "O", "N", "S", "R", "X", "T", "G", "H", "A", "U", "N", "T", "T", "F", "I", "U", "Y", "L", "O", "W", "L", "Y", "J", "W", "B", "R", "P", "C", "D", "G", "Q", "P", "V", "S", "P", "E", "D", "H", "A", "T", "D", "V", "U", "X", "L", "H", "A", "B", "I", "T", "U", "A", "L", "Z"],
+    "solutionBoard": [false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, false, true, true, true, true, true, true, true, true, true, true, true, true, false, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, false, true, false, true, true, true, true, true, true, false, false, true, false, true, true, true, true, true, false, false, false, true, false, false, false, false, false, false, false, false, false, true, false, true, true, true, false, false, false, false, false, true, true, true, true, true, true, true, true, false],
+    "reverse": false
+}
