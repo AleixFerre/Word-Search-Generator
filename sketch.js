@@ -40,11 +40,11 @@ function setup() {
     createDiv("<h1> WORD SEARCH GENERATOR </h1>");
     createCanvas(600, 600);
 
+    createDiv("<h3> Input your own words... </h3>");
+    inputWords = createInput(paraules.toString(), "text");
+
     checkbox = createCheckbox('Enable reverse', enableReverse);
     checkbox.changed(changeReverse);
-
-    createDiv("Input your own words...");
-    inputWords = createInput(paraules.toString(), "text");
 
     createDiv("<br>");
     saveCanvasButton = createButton("Save Frame");
@@ -53,8 +53,9 @@ function setup() {
     saveBoardButton = createButton("Save Board Properties");
     saveBoardButton.mousePressed(saveProperties);
 
-
     let btn = createButton("Generate new board");
+    btn.style("background-color", color("#008CBA"));
+    btn.style("color", color("white"));
     btn.mousePressed(omplirTauler);
 
     textFont(roboto);
